@@ -1,0 +1,3 @@
+C:/Users/rdele/OneDrive/Documents/STM32-BareMetal-Workspace/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/tim.c:7:6:tim2_1hz_init	4	static
+../Src/tim.c:21:6:tim2_1hz_interrupt_init	8	static

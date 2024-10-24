@@ -1,0 +1,5 @@
+../Src/main.c:22:5:main	8	static
+../Src/main.c:44:6:uart2_send_byte	24	static
+../Src/main.c:58:6:uart2_send_string	16	static
+../Src/main.c:65:13:tx_callback	4	static
+../Src/main.c:84:6:USART2_IRQHandler	8	static

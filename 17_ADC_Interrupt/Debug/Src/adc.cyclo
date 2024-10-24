@@ -1,0 +1,5 @@
+C:/Users/rdele/OneDrive/Documents/STM32-BareMetal-Workspace/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/adc.c:15:6:pa1_adc_interrupt_init	1
+../Src/adc.c:43:6:pa1_adc_init	1
+../Src/adc.c:64:6:start_conversion	1
+../Src/adc.c:73:10:adc_read	2
